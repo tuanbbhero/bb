@@ -1,0 +1,8 @@
+Required Tools
++ GeneratePress Theme: bit.ly/gentheme
++ GeneratePress Child Theme: bit.ly/gpchild
++ BB: bit.ly/bbplugins
++ BB Header Footer: bit.ly/bbheadfood
++ Caldera Forms: bit.ly/cfforms
++ Safe SVG (optional): bit.ly/2WqjfrN
+Install & Customize
