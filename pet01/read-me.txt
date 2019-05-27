@@ -6,3 +6,8 @@ Required Tools
 + Caldera Forms: bit.ly/cfforms
 + Safe SVG (optional): bit.ly/2WqjfrN
 Install & Customize
++ Install GeneratePress Theme & Child Theme
++ Install Beaver Builder & Beaver Builder Header Footer
++ Install Caldera Forms & SaveSVG
++ Import Contact Forms
++ Import Template
